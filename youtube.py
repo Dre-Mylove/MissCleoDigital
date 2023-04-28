@@ -5,7 +5,6 @@ import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
 import requests
-from io import BytesIO
 
 # Load the cleaned data into a pandas DataFrame
 cleaned_data_path = r"C:\Users\deonl\Desktop\cleaned_data.csv"
